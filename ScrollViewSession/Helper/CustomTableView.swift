@@ -1,6 +1,6 @@
 
 //
-//  VerticalScrollView.swift
+//  CustomTableView.swift
 //  ScrollViewSession
 //
 //  Created by Ambar Septian on 29/07/19.
@@ -8,6 +8,7 @@
 //
 
 import UIKit
+
 
 class CustomTableView: UITableView {
     let cellColor: UIColor
